@@ -2,9 +2,9 @@
 Weather Details based on City Name / Zip Code
 
 Objective:
-1) To built a Weather Application using third party API - OpenWeatherMap API
-2) To provide Weather details includes Minimum and Maximum temperature , Humidity and WindSpeed with different backgrounf based on the weather report
-3) To get Weather details based on City Name / Zipcode
+1) To get Weather details based on City Name / Zipcode by using a third party API  - OpenWeatherMap API
+2) To create a weather container using Bootstrap to display weather details like windspeed, humidity, Minimum and Maximum temperature.     Weather details includes Minimum and Maximum temperature , Humidity and WindSpeed
+3) To Utilize CSS styling property to change the background of the application according to the result returned by the API
 
                                                       Home Page / Default Background
 ![Weather1](https://user-images.githubusercontent.com/30927617/83333681-b0d46300-a26f-11ea-818f-b3644bf9e8ca.PNG)
